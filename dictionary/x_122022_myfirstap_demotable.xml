@@ -2,6 +2,7 @@
 <database>
     <element label="DemoTable" max_length="40" name="x_122022_myfirstap_demotable" type="collection">
         <element label="first" max_length="40" name="first" type="string"/>
+        <element label="Fourth" max_length="40" name="fourth" type="string"/>
         <element label="second" max_length="40" name="second" type="string"/>
         <element label="third" max_length="40" name="third" type="string"/>
     </element>
